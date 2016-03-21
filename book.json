@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "chart"
+        "chart",
+        "flowchart"
     ],
     "pluginsConfig": {}
 }
