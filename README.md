@@ -1,3 +1,9 @@
-# My Awesome Book
+# 前言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这本书的内容是Hustlion的对于编程学习路线的思考，同时包括Hustlion非常重视的理念、技巧等，将其总称为VimLife。
+
+于是有了"VimLife码农成长指南"这个名字。
+
+打算写中文、英文版。
+
+
