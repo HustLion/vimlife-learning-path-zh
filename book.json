@@ -3,5 +3,9 @@
         "chart",
         "flowchart"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+    "chart": {
+            "type": "highcharts"
+        }
+    }
 }
