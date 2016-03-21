@@ -7,3 +7,12 @@
 打算写中文、英文版。
 
 
+# 本书使用的插件
+* [Chart](https://plugins.gitbook.com/plugin/chart)：主要为了Highcharts图表
+* [Flowchart](https://plugins.gitbook.com/plugin/flowchart)：流程图
+
+
+
+
+
+
